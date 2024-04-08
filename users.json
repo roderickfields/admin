@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Hamilton Cline",
+        "type": "Teacher",
+        "email": "hcline@academyart.edu",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Phoebe Buffay",
+        "type": "Singer",
+        "email": "phoebe@earthlink.net",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Joey Tribbiani",
+        "type": "Actor",
+        "email": "joeytribs@aol.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Chandler Bing",
+        "type": "Who Knows",
+        "email": "bingtastic@yahoo.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Monica Gellar",
+        "type": "Chef",
+        "email": "mgellar1973@hotmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Ross Gellar",
+        "type": "Paleontologist",
+        "email": "rossatron@gmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Rachel Green",
+        "type": "Fashion Executive",
+        "email": "rgreen@bloomingdales.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Phoebe Buffay",
+        "type": "Masseuse",
+        "email": "phoebuff@gmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Joey Tribbiani",
+        "type": "Actor",
+        "email": "howyoudoin@gmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Chandler Bing",
+        "type": "Data Analyst",
+        "email": "bingchandler@yahoo.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Monica Gellar",
+        "type": "Chef",
+        "email": "monicagellar@gmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Rachel Green",
+        "type": "Stylist",
+        "email": "r.green@yahoo.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Ross Gellar",
+        "type": "Professor",
+        "email": "rgellar@university.edu",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Phoebe Buffay",
+        "type": "Massage Therapist",
+        "email": "phoebuff@hotmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Joey Tribbiani",
+        "type": "Comedian",
+        "email": "howyoudoin@aol.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Chandler Bing",
+        "type": "IT Manager",
+        "email": "chandler.bing@gmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Monica Gellar",
+        "type": "Event Planner",
+        "email": "monicagellar@yahoo.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Rachel Green",
+        "type": "Entrepreneur",
+        "email": "rachel.green@gmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Ross Gellar",
+        "type": "Museum Curator",
+        "email": "rossgellar@hotmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "Phoebe Buffay",
+        "type": "Animal Shelter Volunteer",
+        "email": "phoebe.buffay@gmail.com",
+        "classes": [
+            601,
+            608,
+            617,
+            820
+        ]
+    },
+    {
+        "name": "qw",
+        "type": "qw",
+        "email": "gg@gmail.com",
+        "classes": [
+            "545"
+        ]
+    }
+]
